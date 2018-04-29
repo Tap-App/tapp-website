@@ -1,0 +1,25 @@
+{
+  "name": "tapp.github.io",
+  "version": "0.1.0",
+  "description": "Static landing page for tapp app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tap-App/tapp.github.io.git"
+  },
+  "author": "Tucker Wash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tap-App/tapp.github.io/issues"
+  },
+  "homepage": "https://github.com/Tap-App/tapp.github.io#readme",
+  "dependencies": {
+    "next": "^5.1.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
